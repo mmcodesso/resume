@@ -32,11 +32,10 @@ weight = 5
   institution = "Uniasselvi"
   year = 2012
  
- #[[education.courses]]
- # course = "Bachelor of Science in Accounting"
- # institution = "Instituto Cenescista Fayal de Ensino Superior"
- # year = 2009
-
+ [[education.courses]]
+  course = "Bachelor of Science in Accounting"
+  institution = "Instituto Cenescista Fayal de Ensino Superior"
+  year = 2009
  
 +++
 
