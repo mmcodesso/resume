@@ -219,10 +219,10 @@ defaultContentLanguageInSubdir = false
     icon_pack = "fa"
     link = "mailto:mauricio.codesso@outlook.com"
 
-  #[[params.social]]
-  #  icon = "twitter"
-  #  icon_pack = "fa"
-  #  link = "//twitter.com/GeorgeCushen"
+  [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "https://www.linkedin.com/in/mauricio-codesso/"
 
   [[params.social]]
     icon = "google-scholar"
