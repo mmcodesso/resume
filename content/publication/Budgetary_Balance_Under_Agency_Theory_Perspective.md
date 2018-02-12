@@ -23,18 +23,7 @@ publication = "Connexio - Revista Científica da Escola de Gestão e Negócios"
 publication_short = "In *Connexio*"
 
 # Abstract and optional shortened version.
-abstract = "This research aims to identify the propensity of budgetary slack creation in a fish company
-of Santa Catarina from the perspective of agency theory. For this, a descriptive study was
-conducted with qualitative approach to problem, operationalized through a survey. Responses
-were received from a director and two managers involved in the budget process of the human
-resources sector, which allowed the comparison between the different hierarchical levels. The
-results pointed to an environment with information asymmetry, low level of conflict of interest and
-presence monitoring by senior management, which resulted in a low propensity to create budgetary
-slack. The findings corroborate with Dunk (1993) e Van der Stede (2000) as the fact that monitoring
-decreased the inclination for budgetary slack and contradicts other findings as information
-asymmetry increase the budgetary slack (DUNK, 1993; FISHER et al., 2002; FANK, 2011; BUZZI
-et al. 2014), that monitoring decrease information asymmetry (VAN DER STEDE, 2000) and the
-conflict of interest escalates information asymmetry (FARIA, 2011)."
+abstract = "This research aims to identify the propensity of budgetary slack creation in a fish company of Santa Catarina from the perspective of agency theory. For this, a descriptive study was conducted with qualitative approach to problem, operationalized through a survey. Responses were received from a director and two managers involved in the budget process of the human resources sector, which allowed the comparison between the different hierarchical levels. The results pointed to an environment with information asymmetry, low level of conflict of interest and presence monitoring by senior management, which resulted in a low propensity to create budgetary slack. The findings corroborate with Dunk (1993) e Van der Stede (2000) as the fact that monitoring decreased the inclination for budgetary slack and contradicts other findings as information asymmetry increase the budgetary slack (DUNK, 1993; FISHER et al., 2002; FANK, 2011; BUZZI et al. 2014), that monitoring decrease information asymmetry (VAN DER STEDE, 2000) and the conflict of interest escalates information asymmetry (FARIA, 2011)."
 
 abstract_short = ""
 

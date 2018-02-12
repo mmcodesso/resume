@@ -23,16 +23,7 @@ publication = "Business and Management Review"
 publication_short = "In *BMR*"
 
 # Abstract and optional shortened version.
-abstract = "The supermarket retail sector plays an important part in the Brazilian economy, especially in the state of Santa
-Catarina. As such, this work seeks to provide evidence on the budgeting practices adopted by supermarket
-companies of said state. In order to reach this objective, an empirical study was carried out by way of a survey,
-with a questionnaire sent to all of the supermarkets making up the ACATS (Catarinense Supermarket Association),
-generating an initial study population of 451 supermarkets. From this initial population, 19 supermarkets
-displaying a formal budget were selected. In seeking to provide a better base for discussion, descriptive statistics
-were applied to the results gathered. The findings show that the majority of the supermarkets in question carries
-out a budgeting process, with the Top-Down approach shown to be predominant among them. Additionally, the
-study shows the varied bases for budgeting, the characteristics of the stages of execution and control, as well as
-the respective goals of the same."
+abstract = "The supermarket retail sector plays an important part in the Brazilian economy, especially in the state of Santa Catarina. As such, this work seeks to provide evidence on the budgeting practices adopted by supermarket companies of said state. In order to reach this objective, an empirical study was carried out by way of a survey, with a questionnaire sent to all of the supermarkets making up the ACATS (Catarinense Supermarket Association), generating an initial study population of 451 supermarkets. From this initial population, 19 supermarkets displaying a formal budget were selected. In seeking to provide a better base for discussion, descriptive statistics were applied to the results gathered. The findings show that the majority of the supermarkets in question carries out a budgeting process, with the Top-Down approach shown to be predominant among them. Additionally, the study shows the varied bases for budgeting, the characteristics of the stages of execution and control, as well as the respective goals of the same."
 
 abstract_short = ""
 
