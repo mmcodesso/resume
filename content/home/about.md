@@ -11,7 +11,7 @@ weight = 5
 [interests]
   interests = [
     "Accounting Information System",
-    "Management Accouting",
+    "Management accounting",
     "Data Science",
     "Artificial Intelligence"
   ]
