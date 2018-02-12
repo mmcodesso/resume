@@ -5,7 +5,7 @@ title = "Performance Based Budgeting: an analysis of the relationship between pe
 date = "2014-01-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = [Codesso, M. M." ,"Sun, T."]
+authors = ["Codesso, M. M." ,"Sun, T."]
 
 # Publication type.
 # Legend:
