@@ -1,6 +1,6 @@
 +++
 # Recent and Upcoming Talks widget.
-widget = "talks"
+widget = "publications"
 active = true
 date = "2016-04-20T00:00:00"
 
@@ -30,7 +30,7 @@ list_format = 3
 #  4: Technical report
 #  5: Book
 #  6: Book chapter
-publication_type = "-3"
+publication_type = "3"
 
 +++
 
