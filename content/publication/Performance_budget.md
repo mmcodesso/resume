@@ -1,5 +1,5 @@
 +++
-title = "erformance Based Budget: an analysis of the relationship between performance and allocation of resources in actions in the budget of a Federal Institution of Higher Education"
+title = "Performance Based Budget: an analysis of the relationship between performance and allocation of resources in actions in the budget of a Federal Institution of Higher Education"
 
 # Date first published.
 date = "2014-01-01"
