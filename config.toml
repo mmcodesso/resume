@@ -23,7 +23,7 @@ paginate = 10
 disqusShortname = ""
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "UA-113978515-1"
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
@@ -51,7 +51,7 @@ defaultContentLanguageInSubdir = false
 
   # Your details.
   name = "Maurício Codesso"
-  role = "Ph.D Candidate at University of Santa Catarina"
+  role = "Ph.D Candidate Business Management"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -234,6 +234,10 @@ defaultContentLanguageInSubdir = false
     icon_pack = "fa"
     link = "https://github.com/mmcodesso/"
 
+  [[params.social]]
+    icon = "leanpub"
+    icon_pack = "fa"
+    link = "http://lattes.cnpq.br/1237924086985169"
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
@@ -274,10 +278,10 @@ defaultContentLanguageInSubdir = false
   weight = 6
 
 # Taxonomies.
-[taxonomies]
-  tag = "tags"
-  category = "categories"
-  publication_type = "publication_types"
+#[taxonomies]
+#  tag = "tags"
+#  category = "categories"
+#  publication_type = "publication_types"
 
 # Languages
 #   Create a [languages.X] block for each language you want, where X is the language ID.
