@@ -1,5 +1,5 @@
 +++
-title = "Performance Based Budgeting: an analysis of the relationship between performance and allocation of resources in actions in the budget of a Federal Institution of Higher Education"
+title = "Semi-Supervised Model To Improve The Detection Of Audit Exceptions"
 
 # Date first published.
 date = "2014-01-01"
@@ -16,7 +16,7 @@ authors = ["Codesso, M. M." ,"Sun, T."]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["2"]
+publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
 publication = ""
