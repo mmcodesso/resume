@@ -34,7 +34,7 @@ weight = 5
  
  [[education.courses]]
   course = "Bachelor of Science in Accounting"
-  institution = "Instituto Cenestita Fayal de Ensino Superior"
+  institution = "Instituto Cenescista Fayal de Ensino Superior"
   year = 2009
 
  
@@ -42,4 +42,4 @@ weight = 5
 
 # Biography
 
-Mauricio Codesso is a Ph.D Candidate at University of Santa Catarina. Currently he is Exchange Student at Rutgers Business School in New Jersey, USA. His research interests include artificial inteligence and machine learning techiniques as such deep learning applied into business problems resolutions. 
+Mauricio Codesso is Ph.D Candidate at University of Santa Catarina. Currently he is Exchange Student at Rutgers Business School in New Jersey, USA. His research interests include artificial inteligence and machine learning techiniques as such deep learning applied into business problems resolutions. 
