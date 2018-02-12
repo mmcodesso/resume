@@ -5,7 +5,7 @@ title = "erformance Based Budget: an analysis of the relationship between perfor
 date = "2014-01-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Lyrio, M.V.L.", "Melo, V. S.","Codesso, M. M.", ,"Lunkes, R. J."]
+authors = ["Lyrio, M.V.L.", "Melo, V. S.","Codesso, M. M." ,"Lunkes, R. J."]
 
 # Publication type.
 # Legend:
