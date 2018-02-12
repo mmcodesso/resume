@@ -32,14 +32,16 @@ weight = 5
   institution = "Uniasselvi"
   year = 2012
  
- [[education.courses]]
-  course = "Bachelor of Science in Accounting"
-  institution = "Instituto Cenescista Fayal de Ensino Superior"
-  year = 2009
+ #[[education.courses]]
+ # course = "Bachelor of Science in Accounting"
+ # institution = "Instituto Cenescista Fayal de Ensino Superior"
+ # year = 2009
 
  
 +++
 
 # Biography
 
-Mauricio Codesso is Ph.D Candidate at University of Santa Catarina. Currently he is Exchange Student at Rutgers Business School in New Jersey, USA. His research interests include artificial inteligence and machine learning techiniques as such deep learning applied into business problems resolutions. 
+I'm a Ph.D Candidate at University of Santa Catarina. Currently I am an Exchange Student at Rutgers Business School in New Jersey, USA. my research interests include artificial inteligence and machine learning techniques as such deep learning applied into business problems resolutions. My dissetation focus on development of a framework to Continuous Audit using XBRL and Audit Data Standards. You can find some of my working papers 
+
+#[here](/working-papers)
