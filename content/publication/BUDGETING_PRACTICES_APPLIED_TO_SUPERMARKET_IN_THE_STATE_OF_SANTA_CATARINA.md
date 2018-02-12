@@ -5,7 +5,7 @@ title = "Budgeting Practices Applied to Supermarkets in the State of Santa Catar
 date = "2015-02-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Codesso, M. M.", "Lyrio, M.V.L. ","Rogério João Lunkes", "Pinto, H. M."]
+authors = ["Codesso, M. M.", "Lyrio, M.V.L. ","Lunkes, R. J.", "Pinto, H. M."]
 
 # Publication type.
 # Legend:

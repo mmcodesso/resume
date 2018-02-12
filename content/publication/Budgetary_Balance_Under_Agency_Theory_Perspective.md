@@ -5,7 +5,7 @@ title = "Budgetary Balance Under Agency Theory Perspective"
 date = "2016-01-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Teixeira, B." ,"Codesso, M. M.","Rogério João Lunkes"]
+authors = ["Teixeira, B." ,"Codesso, M. M.","Lunkes, R. L."]
 
 # Publication type.
 # Legend:
