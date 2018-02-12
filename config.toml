@@ -57,8 +57,8 @@ defaultContentLanguageInSubdir = false
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
   organizations = [ { name = "University of Santa Catarina ", url = "http://ufsc.br" } ]
 
-  gravatar = true  # Get your avatar from Gravatar.com? (true/false)
-  avatar = https://s.gravatar.com/avatar/a17e4eecaf417ef3df5f929e5e13335b?s=80   #"portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  gravatar = false  # Get your avatar from Gravatar.com? (true/false)
+  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "mauricio.codesso@outlook.com"
   address = "1 Washington Room 919, Rutgers Business School, New Jersey, 07102, USA"
   office_hours = "email for appointment"
