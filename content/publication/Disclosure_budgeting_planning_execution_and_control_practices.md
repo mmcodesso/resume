@@ -5,7 +5,7 @@ title = "Disclosure of budgeting planning, execution and control practices: A su
 date = "2016-03-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Maurício Codesso", "Rogério João Lunkes"]
+authors = ["Codesso, M. M.", "Lunkes, R. J."]
 
 # Publication type.
 # Legend:
