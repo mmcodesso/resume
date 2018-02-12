@@ -2,7 +2,7 @@
 title = "Semi-Supervised Model To Improve The Detection Of Audit Exceptions"
 
 # Date first published.
-date = "2014-01-01"
+date = ""
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Codesso, M. M." ,"Sun, T."]
