@@ -20,7 +20,7 @@ weight = 5
 [[education.courses]]
   course = "PhD in Business Management"
   institution = "University of Santa Catarina"
-  year = 2018 (exp)
+  year = 2018
 
 [[education.courses]]
   course = "Master of Accontancy"
