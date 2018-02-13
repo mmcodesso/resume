@@ -16,7 +16,7 @@ weight = 60
 +++
 
 |Year	| Conference 																											|
-| ----------------------------------------------------------------------------------------------------------------------------- |
+| ----- | --------------------------------------------------------------------------------------------------------------------- |
 |2017	|41th World Continuous Auditing & Reporting Symposium (Huelva, Spain), presenter										|
 |    	|DataAmplied – XBRL Conference (Paris, France), presenter																|
 |		|40th World Continuous Auditing & Reporting Symposium (Newark, NJ), presenter											|
