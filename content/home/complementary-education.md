@@ -15,7 +15,7 @@ weight = 10
 
 +++
 
-| Course           																         |
+| Courses        																         |
 | -------------------------------------------------------------------------------------- |
 |Udacity, Deep Learning Nanodregree Foundation, USA 2017								 |	
 |Beijing Normal University, Strategy and Marketing for Emerging Countries, China 2016    |
