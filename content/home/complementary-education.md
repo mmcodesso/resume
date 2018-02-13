@@ -15,8 +15,10 @@ weight = 10
 
 +++
 
-Udacity - Deep Learning Nanodregree Foundation  USA - 2017
-Beijing Normal University, Strategy and Marketing for Emerging Countries  China - 2016
-University of La Verne, Advanced Topics in Business Strategy  USA - 2015
-IBS-SP, Project Management Brazil - 2014
+| Course           																         |
+| -------------------------------------------------------------------------------------- |
+|Udacity - Deep Learning Nanodregree Foundation  USA - 2017								 |	
+|Beijing Normal University, Strategy and Marketing for Emerging Countries  China - 2016  |
+|University of La Verne, Advanced Topics in Business Strategy  USA - 2015                |
+|IBS-SP, Project Management Brazil - 2014     									         |
 
