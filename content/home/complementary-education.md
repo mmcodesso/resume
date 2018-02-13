@@ -11,10 +11,12 @@ title = "Complementary Education"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 60
+weight = 10
 
 +++
 
-This is an example of using the *custom* widget to create your own homepage section.
+Udacity - Deep Learning Nanodregree Foundation  USA - 2017
+Beijing Normal University, Strategy and Marketing for Emerging Countries  China - 2016
+University of La Verne, Advanced Topics in Business Strategy  USA - 2015
+IBS-SP, Project Management Brazil - 2014
 
-To remove this section, either delete `content/home/teaching.md` or edit the frontmatter of the file to deactivate the widget by setting `active = false`.
