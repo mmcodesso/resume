@@ -1,11 +1,11 @@
 +++
-title = "xAudit: Audit Representation on XBRL-based Docs"
+title = "Continuous Audit Model: Data Integration Framework"
 
 # Date first published.
 date = "2018-01-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Codesso, M. M." ,"Silva, P.C.", "Pereira da Silva, M."]
+authors = ["Codesso, M. M." ,"Lunkes, R. J."]
 
 # Publication type.
 # Legend:
@@ -23,7 +23,7 @@ publication = ""
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "Most of business documents are presented to governments and regulators in computer language (such as XBRL). Conversely, the occurrence of financial frauds is increasing worldwide, which already represents a billion-dollar loss. Even though XBRL technologies disclosure financial data and their accounting semantics, financial audit techniques (that become these data more trustable) are not storage or recorded in the XBRL taxonomies. Objective: This work proposes a way to represent and storage those audit techniques in current XBRL taxonomies, even though this features was not foreseen in XBRL version 2.1. Method: A solution has been built based on XBRL definitions, Generic Links specification and MathML. Result: An audit representation has been built in a real-world XBRL taxonomy in order to show the way to develop this new feature in current XBRL-based business documents. Conclusion: Audit representation in current XBRL document is possible, which one guide financial systems how to identify which techniques have been applied against a specific XBRL document and a way to validate it."
+abstract = "The approximation of business areas with the use of new technologies, real-time savings, transactions with several countries and on several continents with different law guarantees are necessary. These warranties can be acquired through Continuous Audit (CA). However, to be able to perform the analysis the auditors need to have access and extract the data. Previous researchers only emphasis on the benefits of applying the CA methods, but don´t explain how to retrieve and organize the data. In this way, we propose the development of a framework to integrate different systems for continuous auditing. The paper aims to contribute to the literature with the deepening of ways to access, structure and collect critical and necessary data for CA. With the deepening of Audit Data Standard and eXtensible Business Reporting Language (XBRL), as well as creating a basis for future research with the integration of extraction, analysis and exception detection algorithms that are used by CA."
 
 abstract_short = ""
 
