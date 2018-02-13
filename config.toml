@@ -60,7 +60,7 @@ defaultContentLanguageInSubdir = false
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "mauricio.codesso@outlook.com"
-  address = "1 Washington Room 919, Rutgers Business School, New Jersey, 07102, USA"
+  address = "1 Washington Street - Room 919, Rutgers Business School, New Jersey, 07102, USA"
   office_hours = ""
   phone = "(973)954-5843"
   skype = "mmcodesso"
@@ -275,12 +275,12 @@ defaultContentLanguageInSubdir = false
 [[menu.main]]
   name = "Download my CV"
   url = "resume.pdf"
-  weight = 6
+  weight = 7
 
 [[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 7
+  weight = 6
 
 # Taxonomies.
 #[taxonomies]
