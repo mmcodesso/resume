@@ -262,10 +262,10 @@ defaultContentLanguageInSubdir = false
   url = "#publications"
   weight = 3
 
-[[menu.main]]
-  name = "Working Papers"
-  url = "#working-papers"
-  weight = 4
+#[[menu.main]]
+#  name = "Working Papers"
+#  url = "#working-papers"
+#  weight = 4
 
 [[menu.main]]
   name = "Projects"
@@ -278,7 +278,7 @@ defaultContentLanguageInSubdir = false
   weight = 6
 
 [[menu.main]]
-  name = "Download my CV"
+  name = "CV"
   url = "resume.pdf"
   weight = 7
 
