@@ -274,7 +274,7 @@ defaultContentLanguageInSubdir = false
 
 [[menu.main]]
   name = "Download my CV"
-  url = "/static/files/resume.pdf"
+  url = "{{% staticref "files/resume.pdf" %}}"
   weight = 6
 
 [[menu.main]]
