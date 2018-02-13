@@ -1,13 +1,32 @@
++++
+title = "Model Development for Audit trail and Tax Conciliation Brazilian Telecom"
 
----
-title: "Model_Development_for_Audit_trailtand_tax_Conciliation_Brazilian"
-date: 2018-02-12T19:18:03-05:00
-draft: true
----
-external_link = "http://external-project.com"
+date = 2018-02-12T19:31:13-05:00
+draft = false
+
+# Tags: can be used for filtering projects.
+# Example: `tags = ["machine-learning", "deep-learning"]`
+tags = []
+
+# Project summary to display on homepage.
+summary = ""
+
+# Optional image to display on homepage.
+image_preview = ""
+
+# Optional external URL for project (replaces project detail page).
+external_link = ""
+
+# Does the project detail page use math formatting?
+math = false
+
+# Does the project detail page use source code highlighting?
+highlight = true
+
+# Featured image
+# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
+[header]
+image = ""
+caption = ""
 
 +++
-"Model Development for Audit trail and Tax Conciliation Brazilian Telecom"
-
-+++
-
