@@ -1,5 +1,5 @@
 +++
-title = "Relationship Between Goodwill and Corporate_Governance"
+title = "Relationship Between Goodwill and Corporate Governance"
 
 # Date first published.
 date = "2012-12-01"
