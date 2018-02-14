@@ -267,10 +267,10 @@ defaultContentLanguageInSubdir = false
 #  url = "#working-papers"
 #  weight = 4
 
-[[menu.main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 5
+#[[menu.main]]
+#  name = "Projects"
+#  url = "#projects"
+#  weight = 5
 
 [[menu.main]]
   name = "Contact"
