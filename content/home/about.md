@@ -31,14 +31,14 @@ weight = 5
   course = "M.B.A in Costs Management and Finance"
   institution = "Uniasselvi"
   year = 2012
- 
+
  [[education.courses]]
   course = "Bachelor of Science in Accounting"
   institution = "Instituto Cenescista Fayal de Ensino Superior"
   year = 2009
- 
+
 +++
 
 # Biography
 
-I’m a Ph.D. Candidate at University of Santa Catarina. Currently, I am an Exchange Student at Rutgers Business School in New Jersey, USA. My research interests include artificial intelligence and machine learning techniques as such deep learning applied to business problems resolutions. My dissertation focuses on the development of a framework to Continuous Audit using XBRL and Audit Data Standards. You can find some of my working papers [here](#working-papers)
+I’m a Ph.D. Candidate at University of Santa Catarina. Currently, I am an Exchange Student at Rutgers Business School in New Jersey, USA. My research interests include artificial intelligence and machine learning techniques as such deep learning applied to business problems resolutions. My dissertation focuses on the development of a framework for Continuous Audit using XBRL and Audit Data Standards. You can find some of my working papers [here](#working-papers)
