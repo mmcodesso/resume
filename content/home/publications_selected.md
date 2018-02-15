@@ -10,14 +10,14 @@ title = "Selected Publications"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 10
+weight = 19
 
 # List format.
 #   0 = Simple
 #   1 = Detailed
 #   2 = APA
 #   3 = MLA
-list_format = 1
+list_format = 2
 
 # Filter by publication type.
 # -1: Any
@@ -28,6 +28,6 @@ list_format = 1
 #  4: Technical report
 #  5: Book
 #  6: Book chapter
-publication_type = "-1"
+publication_type = "2"
 +++
 
