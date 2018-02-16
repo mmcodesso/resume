@@ -1,7 +1,7 @@
 +++
 # Recent and Upcoming Talks widget.
 widget = "publications"
-active = true
+active = false
 date = "2016-04-20T00:00:00"
 
 title = "Working Papers"
@@ -33,4 +33,3 @@ list_format = 0
 publication_type = "3"
 
 +++
-
