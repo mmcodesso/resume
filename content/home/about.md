@@ -41,4 +41,4 @@ weight = 5
 
 # Biography
 
-I’m a Ph.D. Candidate at University of Santa Catarina. Currently, I am an Exchange Student at Rutgers Business School in New Jersey, USA. My research interests include artificial intelligence and machine learning techniques as such deep learning applied to business problems resolutions. My dissertation focuses on the development of a framework for Continuous Audit using XBRL and Audit Data Standards. You can find some of my working papers [here](#publicarions)
+I’m a Ph.D. Candidate at University of Santa Catarina. Currently, I am an Exchange Student at Rutgers Business School in New Jersey, USA. My research interests include artificial intelligence and machine learning techniques as such deep learning applied to business problems resolutions. My dissertation focuses on the development of a framework for Continuous Audit using XBRL and Audit Data Standards. You can find some of my working papers [here](#publications)
