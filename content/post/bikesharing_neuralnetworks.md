@@ -16,7 +16,7 @@ summary = "In this project, we'll build a neural network and use it to predict d
 #   Markdown linking is allowed, e.g. `caption = "[Image credit](http://example.org)"`.
 # Set `preview` to `false` to disable the thumbnail in listings.
 [header]
-image = "bikesharing.jpg"
+image = "bikesharing/bikesharing.jpg"
 caption = ""
 preview = true
 
