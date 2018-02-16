@@ -257,10 +257,10 @@ defaultContentLanguageInSubdir = false
 #  url = "#complementary-education"
 #  weight = 2
 
-#[[menu.main]]
-#  name = "Publications"
-#  url = "#publications"
-#  weight = 3
+[[menu.main]]
+  name = "Publications"
+  url = "#publications"
+  weight = 3
 
 #[[menu.main]]
 #  name = "Working Papers"
