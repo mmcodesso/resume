@@ -8,6 +8,8 @@ date = "2016-04-20T00:00:00"
 title = "Posts"
 subtitle = ""
 
+list_format = 0
+
 # Order that this section will appear in.
 weight = 40
 
@@ -21,4 +23,3 @@ tags_exclude = []
 count = 5
 
 +++
-
