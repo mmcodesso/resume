@@ -18,7 +18,7 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Business Management"
+  course = "PhD in Business Administration"
   institution = "University of Santa Catarina"
   year = 2018
 
@@ -41,4 +41,4 @@ weight = 5
 
 # Biography
 
-I’m a Ph.D. Candidate at University of Santa Catarina. Currently, I am an Exchange Student at Rutgers Business School in New Jersey, USA. My research interests include artificial intelligence and machine learning techniques as such deep learning applied to business problems resolutions. My dissertation focuses on the development of a framework for Continuous Audit using XBRL and Audit Data Standards. You can find some of my working papers [here](#publications)
+Hi, I´m Maurício. Currently, I am a Post-Doc in Account Information System at Rutgers Business School in New Jersey, USA. My research interests include data analytics, text mining, artificial intelligence and machine learning techniques as such deep learning applied to business problems resolutions. My dissertation focused on the development of a framework for Continuous Audit using XBRL and Audit Data Standards. Previous, I worked for 11 years as a software consultant for a major ERP in Brazil, during this time I had the opportunity to work on several projects implementing, customizing and developing business intelligence, data warehouses, and management systems. You can find some of my papers [here](#publications)
