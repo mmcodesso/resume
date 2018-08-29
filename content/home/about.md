@@ -13,6 +13,7 @@ weight = 5
     "Accounting Information System",
     "Management Accounting",
     "Data Science",
+    "Text Mining",
     "Artificial Intelligence"
   ]
 
