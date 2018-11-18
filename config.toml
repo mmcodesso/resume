@@ -50,12 +50,12 @@ defaultContentLanguageInSubdir = false
   font = "default"
 
   # Your details.
-  name = "Maurício Codesso"
-  role = "Ph.D Candidate Business Management"
+  name = "MaurÃ­cio Codesso"
+  role = "Ph.D in Business Administration"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "University of Santa Catarina ", url = "http://ufsc.br" } ]
+  organizations = [ { name = "Rutgers Business School", url = "http://raw.rutgers.edu" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
