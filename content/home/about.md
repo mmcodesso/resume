@@ -19,7 +19,7 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Business Administration"
+  course = "PhD in Accounting Information System"
   institution = "University of Santa Catarina"
   year = 2018
 
