@@ -239,6 +239,13 @@ defaultContentLanguageInSubdir = false
     icon_pack = "fa"
     link = "http://lattes.cnpq.br/1237924086985169"
 
+  [[params.social]]
+    icon = "orcid"
+    icon_pack = "ai"
+    link = "https://orcid.org/0000-0002-6214-7177"
+
+    
+
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
 #     desired widget in your `content/home/` folder.
